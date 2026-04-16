@@ -44,8 +44,6 @@ Successfully implemented an SDN controller for traffic monitoring.
 ### Ping Test
 ![Ping](ping.png)
 
-### Iperf Test
-![Iperf](iperf.png)
 
 ### Traffic Monitoring
 ![Traffic](traffic.png)  
