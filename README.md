@@ -30,20 +30,30 @@ Build a controller module that collects and displays traffic statistics.
 3. Run ping:
    pingall
 
+
 ## Output
-- Shows packet count and byte count
-- Traffic statistics printed continuously
-- Report saved in report.txt
+- Displays packet count and byte count  
+- Traffic statistics printed continuously  
+- Report saved in report.txt  
 
 ## Result
-Successfully implemented SDN controller for traffic monitoring.
+Successfully implemented an SDN controller for traffic monitoring.
 
 ## Proof of Execution
-- Ping results (0% loss)
-- Iperf bandwidth test
-- Traffic monitoring logs
-- Flow table entries using ovs-ofctl
+
+### Ping Test
+![Ping](ping.png)
+
+### Iperf Test
+![Iperf](iperf.png)
+
+### Traffic Monitoring
+![Traffic](traffic.png)  
+![Traffic](traffic2.png)
+
+### Flow Table
+![Flow](flow.png)
 
 ## References
-- POX Documentation
-- Mininet Documentation
+- POX Documentation  
+- Mininet Documentation  
