@@ -38,6 +38,12 @@ Build a controller module that collects and displays traffic statistics.
 ## Result
 Successfully implemented SDN controller for traffic monitoring.
 
+## Proof of Execution
+- Ping results (0% loss)
+- Iperf bandwidth test
+- Traffic monitoring logs
+- Flow table entries using ovs-ofctl
+
 ## References
 - POX Documentation
 - Mininet Documentation
